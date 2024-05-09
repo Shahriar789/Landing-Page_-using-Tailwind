@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --font-family: Inter;
+    --font-size-xs: 8px;
+    --font-size-s: 14px;
+    --font-size-base: 16px;
+    --font-size-md: 18px;
+    --font-size-lg:20px;
+    --font-size-xl: 36px;
+    --font-size-2xl:48px;
+}
+
+body{
+    font-family: Inter;
+}
